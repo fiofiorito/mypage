@@ -1,0 +1,22 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "iFio - Fiorella Fiorito's portfolio static website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiofiorito/my-website-3.0-final-result.git"
+  },
+  "author": "iFio - Fiorella Fiorito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiofiorito/my-website-3.0-final-result/issues"
+  },
+  "homepage": "https://github.com/fiofiorito/my-website-3.0-final-result#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
