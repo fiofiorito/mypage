@@ -394,6 +394,11 @@ section {
 
 .form__input-data {
     margin-top: 0.25rem;
+    width: 80%;
+}
+
+.form__input-text {
+    width: 80%;
 }
 
 form {
@@ -508,6 +513,15 @@ footer>p {
     /* things i like */
     .lovely-things-flex-child-img {
         align-self: flex-end;
+    }
+
+    /* contact me */
+    .form__input-data {
+        width: 100%;
+    }
+
+    .form__input-text {
+        width: 100%;
     }
 }
 
