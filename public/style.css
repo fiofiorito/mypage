@@ -517,11 +517,11 @@ footer>p {
 
     /* contact me */
     .form__input-data {
-        width: 100%;
+        width: 80%;
     }
 
     .form__input-text {
-        width: 100%;
+        width: 90%;
     }
 }
 
